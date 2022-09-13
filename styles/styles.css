@@ -1,0 +1,13 @@
+body{
+  background-color: #2C2B30;
+  font-family: avant garde;
+}
+
+h1, h3{
+  color: #F58F7C;
+}
+
+
+label, td, tr, ul, ol{
+  color: #F2C4CE;
+}
